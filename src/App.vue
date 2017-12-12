@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img class="logo-img" src="./assets/overwatch.png">
     <router-view/>
   </div>
 </template>
@@ -19,5 +19,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+.logo-img {
+  width: 160px;
 }
 </style>

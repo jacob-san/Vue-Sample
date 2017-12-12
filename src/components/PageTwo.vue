@@ -25,7 +25,7 @@ export default {
   name: 'PageTwo',
   data () {
     return {
-      msg: 'Take a tour of Vue JS App'
+      msg: 'Take a digital tour of Utah'
     }
   }
 }
@@ -45,6 +45,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #fa9c1f;
 }
 </style>
